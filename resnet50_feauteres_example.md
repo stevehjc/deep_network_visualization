@@ -44,7 +44,7 @@ python resnet50_model_features_vis.py --imagepath data/elephant --savepath imgs 
 
 ### 9.avgpool
 
-![f9_layer5](/imgs/f9_layer5.png)
+![f9_layer5](/imgs/f9_avgpool.png)
 
 ### 10.fc
 
